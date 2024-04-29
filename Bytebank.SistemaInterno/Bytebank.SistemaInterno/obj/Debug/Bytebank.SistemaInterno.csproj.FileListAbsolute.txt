@@ -1,0 +1,11 @@
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\obj\Debug\Bytebank.SistemaInterno.csproj.AssemblyReference.cache
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\obj\Debug\Bytebank.SistemaInterno.csproj.CoreCompileInputs.cache
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\Bytebank.SistemaInterno.exe.config
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\Bytebank.SistemaInterno.exe
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\Bytebank.SistemaInterno.pdb
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\obj\Debug\Bytebank.C3F62AD9.Up2Date
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\obj\Debug\Bytebank.SistemaInterno.exe
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\obj\Debug\Bytebank.SistemaInterno.pdb
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\Bytebank.SistemaInterno.xml
+C:\robyson\Bytebank.SistemaInterno\Bytebank.SistemaInterno\bin\Debug\ByteBank.Modelos.xml
